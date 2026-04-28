@@ -1,0 +1,21 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data — raw logs and vector DB are local only
+data/raw_logs/*.txt
+data/raw_logs/*.json
+data/chroma_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,10 @@
+cerebras-cloud-sdk
+chromadb
+PyGithub
+python-dotenv
+openai
+fastapi
+uvicorn
+requests
+pytest
+pytest-mock
