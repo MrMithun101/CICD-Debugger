@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cicd-triage": {
+      "command": "python",
+      "args": ["mcp_server/server.py"],
+      "env": {}
+    }
+  }
+}

@@ -7,5 +7,6 @@ fastapi
 uvicorn
 requests
 sentence-transformers
+mcp[cli]
 pytest
 pytest-mock
