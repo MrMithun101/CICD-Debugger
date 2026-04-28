@@ -6,5 +6,6 @@ openai
 fastapi
 uvicorn
 requests
+sentence-transformers
 pytest
 pytest-mock
