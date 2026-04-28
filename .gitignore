@@ -10,9 +10,10 @@ dist/
 build/
 .eggs/
 
-# Data — raw logs and vector DB are local only
+# Data — generated at runtime, not committed
 data/raw_logs/*.txt
 data/raw_logs/*.json
+data/processed/*.json
 data/chroma_db/
 
 # IDE
